@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.hero{
+    background-color:cadetblue;
+    border: 1px solid black;
+    background:url("../img/perro.jpg");
+    height:80vh ;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    /* px esta mal
+        vh viewport height==>80vh
+    */
+}
+
+.product{
+    background-color: blanchedalmond;
+}
+.ebookymanuals{
+    background-color: chocolate;
+}
